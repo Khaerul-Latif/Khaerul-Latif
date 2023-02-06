@@ -1,4 +1,4 @@
-# Hi, I’m [Khaerul Latif]
+# Hi, I’m Khaerul Latif
 
 I am a Final Year Informatics Student at University of Indraprasta PGRI with a passion for creating efficient and effective solutions using Android Kotlin Native, Flutter, NodeJS.
 
