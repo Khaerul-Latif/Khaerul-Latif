@@ -40,7 +40,7 @@
 
 <p align="center">
 <a href="https://linktr.ee/storetif"><img src="https://img.shields.io/badge/-store__tif-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/rohman-beny/"><img src="https://img.shields.io/badge/-Khaerul%20Latif-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/khaerul-latif/"><img src="https://img.shields.io/badge/-Khaerul%20Latif-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:khaerullatif21@gmail.com"><img src="https://img.shields.io/badge/-khaerullatif21@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/khaerul_latif/"><img src="https://img.shields.io/badge/-khaerul__latif-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
