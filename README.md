@@ -31,16 +31,16 @@
 
 <p align="center">
 <a href="https://github.com/Khaerul_Latif">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RohmanBenyRiyanto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RohmanBenyRiyanto&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Khaerul-Latif&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Khaerul-Latif&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### <font color="f5deb3">🤝</font> &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linktr.ee/storetif"><img src="https://img.shields.io/badge/-rohmanbenyriyanto.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/rohman-beny/"><img src="https://img.shields.io/badge/-rohman%20beny-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:khaerullatif21@gmail.com"><img src="https://img.shields.io/badge/-rendyasw@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/khaerul_latif/"><img src="https://img.shields.io/badge/-@رحمن بيني-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://linktr.ee/storetif"><img src="https://img.shields.io/badge/-store_tif-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rohman-beny/"><img src="https://img.shields.io/badge/-Khaerul%20Latif-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:khaerullatif21@gmail.com"><img src="https://img.shields.io/badge/-khaerullatif21@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/khaerul_latif/"><img src="https://img.shields.io/badge/-khaerul_latif-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
