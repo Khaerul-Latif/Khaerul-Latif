@@ -1,6 +1,6 @@
 <img alt="Night Coding" src="Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Khaerul Latif</h2>
 
-![](https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Mobile+Developer;Flutter+Developer;)
+![](https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Mobile+Developer;Flutter+Developer;IT+Developer;Application+Developer;Web+Developer;)
 
 <!-- ## 👋 &nbsp;Hey there! I'm Rohman Beny Riyanto -->
 
